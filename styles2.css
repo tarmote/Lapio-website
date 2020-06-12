@@ -1,7 +1,12 @@
 .eka {
 width: 200px; 
 height: 100px; 
-background-color:red; 
+background-color:red;
+text-align:center;
+vertical-align:middle;
+border-width:10px;
+border-color:green;
+border-style:solid; 
 }
 
 .toka {width:200px; height:100px; background-color:yellow; position:absolute; left:300px; top:15px;}
